@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title":"zapatos",
+        "image":"https://iili.io/dNg0cib.png",
+        "description":"zapatos para usar todo el dia"
+    },
+    {
+        "id": 2,
+        "title":"pantalon",
+        "image":"https://iili.io/dNg010x.png",
+        "description":"pantalon para usar todo el dia"
+    },
+    {
+        "id": 3,
+        "title":"remera",
+        "image":"https://iili.io/dNg00fj.png",
+        "description":"remera para usar todo el dia"
+    },
+    {
+        "id": 4,
+        "title":"buzo",
+        "image":"https://iili.io/dNg0EUQ.png",
+        "description":"buzo para usar todo el dia"
+    }
+
+]
