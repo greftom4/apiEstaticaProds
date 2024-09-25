@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Episodio 1",
+        "episode":"How Poopy Got His Poop Back",
+        "src": "https://www.dropbox.com/scl/fi/vvi4478n06jiuwvrnr2am/R-ck-mrt-7x01-1080p-Lat_x264.mp4?rlkey=pm18rp955kq08yw2mcfd7gcw5&st=danoq4lx&raw=1"
+    },
+    {
+        "id": 2,
+        "title": "Episodio 2",
+        "episode":"The Jerrick Trap",
+        "src": "https://www.dropbox.com/scl/fi/9elnexqqvlnyj0e6qqfph/R-ck-mrt-7x02-1080p-Lat.mp4_x264.mp4?rlkey=juprlp9gdybhf5kenqdz65yie&st=xm3zegw8&raw=1"
+    },
+    {
+        "id": 3,
+        "title": "Episodio 3",
+        "episode":"Air Force Wong",
+        "src": "https://www.dropbox.com/scl/fi/a5qvews6iiq3nvkf0ypl2/R-ck-mrt-7x03-1080p-Lat.mp4_x264.mp4?rlkey=fyhwie6pafy3xc62ae0kx392u&st=53ub1bpj&raw=1"
+    },
+    {
+        "id": 4,
+        "title": "Episodio 4",
+        "episode":"That's Amorte",
+        "src": "https://www.dropbox.com/scl/fi/05r6qb7wwm5hx68ycsc99/R-ck-mrt-7x04-1080p-Lat_x264.mp4.mp4?rlkey=1oslp21uiicmjb7rz9x96m4fk&st=qk9rnixo&raw=1"
+    },
+    {
+        "id": 5,
+        "title": "Episodio 5",
+        "episode":"Unmortricken",
+        "src": "https://www.dropbox.com/scl/fi/1lzhl12vy4nnxyul933gc/R-ck-mrt-7x05-1080p-Lat_x264.mp4?rlkey=3h2x9tmhqmw3y4f8cf164smj2&st=yo08q5hj&raw=1"
+    },
+    {
+        "id": 6,
+        "title": "Episodio 6",
+        "episode":"Rickfending Your Mort",
+        "src": "https://www.dropbox.com/scl/fi/guv9zqjbdr0rx7otrw3lu/R-ck-mrt-7x06-1080p-Lat_x264.mp4?rlkey=wcfv5c4xgx6q7wh1iz2qhys6x&st=nrlgf9id&raw=1"
+    },
+    {
+        "id": 7,
+        "title": "Episodio 7",
+        "episode":"Wet Kuat Amortican Summer",
+        "src": "https://www.dropbox.com/scl/fi/gaajxt4wfnysis8wxu2pg/R-ck-mrt-7x07-1080p-Lat_x264.mp4?rlkey=li461jra731g7r3sbfsgkjodk&st=y21bvp7h&raw=1"
+    },
+    {
+        "id": 8,
+        "title": "Episodio 8",
+        "episode":"Rise of the Numbericons: The Movie",
+        "src": "https://www.dropbox.com/scl/fi/8gzt2qthsv4xxn8q4tqml/R-ck-mrt-7x08-1080p-Lat_x264.mp4?rlkey=cjj5qk8oewbwthtq2d5mnths6&st=a34y5rze&raw=1"
+    }
+]
